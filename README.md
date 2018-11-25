@@ -1,2 +1,2 @@
 # Psychic-Game
-Week 2 homework
+Week 3 homework
